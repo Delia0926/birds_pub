@@ -2,7 +2,7 @@
 Project Introduction:
 As a bird-watcher, the project focuses on giving potential bird enthusiasts an overall view of species of birds found in Alberta and explore bird behaviour through the observation datasets we’ve acquired. 
 This includes the exploration of common vs. rare birds, habitat locations of certain species, and how bird presence changes overtime –– both seasonally and throughout recent decades. 
-co-workers: Jesse, Anna, Val, Delia, Yichen
+co-workers: Jesse[main contributor], Anna, Val, Delia, Yichen
 """
 
 """
